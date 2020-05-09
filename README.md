@@ -5,8 +5,8 @@
 ## sábado 9: Datos espaciales
 Taller a cargo de [Stephanie Orellana](https://twitter.com/sporella)
 
-* Presentación (pronto)
-* Materiales (pronto)
+* [Presentación](https://sporella.github.io/datos_espaciales_presentacion)
+* [Materiales](https://github.com/sporella/datos_espaciales_tutorial)
 * Video (pronto)
 
 ## sábado 23: Calendarización usando ggplot2
