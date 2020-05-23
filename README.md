@@ -11,3 +11,5 @@ Taller a cargo de [Stephanie Orellana](https://twitter.com/sporella)
 
 ## sábado 23: Calendarización usando ggplot2
 Taller a cargo de Javiera Riffo
+
+* [Video](https://vimeo.com/421945168)
