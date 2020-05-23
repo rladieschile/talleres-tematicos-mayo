@@ -12,4 +12,5 @@ Taller a cargo de [Stephanie Orellana](https://twitter.com/sporella)
 ## sábado 23: Calendarización usando ggplot2
 Taller a cargo de Javiera Riffo
 
+* [Proyecto de RStudio Cloud con el código y la presentación](https://rstudio.cloud/project/1309892)
 * [Video](https://vimeo.com/421945168)
